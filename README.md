@@ -13,6 +13,6 @@ To hide menu:
 _context.menu("hide");
 
 
-You can always suggest me anything regarding this or have any problem. Let me know at me@abhishekgahlot.com
+You can always suggest me anything regarding this or have any problem. Let me know at me@abhishek.it
 
 Thanks
